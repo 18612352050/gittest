@@ -1,5 +1,5 @@
 <?php
 
 function dd(){
-	var_dump(1);
+	var_dump('git');
 }
